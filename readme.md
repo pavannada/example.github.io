@@ -1,2 +1,2 @@
-http://example.github.io/index.html
+http://example.github.io
 mypersonal website
