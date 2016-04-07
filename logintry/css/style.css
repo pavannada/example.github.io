@@ -11,7 +11,7 @@
 @font-face {
     font-family: 'FontomasCustomRegular';
     src: url('fonts/fontomas-webfont.eot');
-    src: url('fonts/fontomas-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/fontomas-webfontd41d.eot?#iefix') format('embedded-opentype'),
          url('fonts/fontomas-webfont.woff') format('woff'),
          url('fonts/fontomas-webfont.ttf') format('truetype'),
          url('fonts/fontomas-webfont.svg#FontomasCustomRegular') format('svg');
@@ -21,7 +21,7 @@
 @font-face {
     font-family: 'FranchiseRegular';
     src: url('fonts/franchise-bold-webfont.eot');
-    src: url('fonts/franchise-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/franchise-bold-webfontd41d.eot?#iefix') format('embedded-opentype'),
          url('fonts/franchise-bold-webfont.woff') format('woff'),
          url('fonts/franchise-bold-webfont.ttf') format('truetype'),
          url('fonts/franchise-bold-webfont.svg#FranchiseRegular') format('svg');

@@ -89,7 +89,7 @@ function rstr2hex(input)
 function rstr2b64(input)
 {
   try { b64pad } catch(e) { b64pad=''; }
-  var tab = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+  var tab = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%2b/index.html";
   var output = "";
   var len = input.length;
   for(var i = 0; i < len; i += 3)
